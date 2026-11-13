@@ -1,0 +1,69 @@
+What is the primary function of a bioreactor?
+A. To store industrial chemicals
+B. To cultivate microorganisms under controlled conditions
+C. To separate solid wastes
+D. To generate electricity directly
+ANSWER: B
+
+Which component of a bioreactor is responsible for introducing sterile air?
+A. Impeller
+B. Baffle
+C. Sparger
+D. Cooling jacket
+ANSWER: C
+
+The main function of baffles in a stirred-tank bioreactor is to:
+A. Increase temperature
+B. Prevent vortex formation
+C. Measure dissolved oxygen
+D. Control nutrient concentration
+ANSWER: B
+
+Which component provides mixing and improves oxygen transfer in a stirred-tank bioreactor?
+A. Impeller
+B. Thermometer
+C. Sampling port
+D. Gas outlet
+ANSWER: A
+
+Which material is commonly used for large-scale industrial bioreactors?
+A. Wood
+B. Plastic film
+C. Stainless steel
+D. Copper
+ANSWER: C
+
+What is the main purpose of a cooling jacket in a bioreactor?
+A. To remove excess heat generated during fermentation
+B. To increase oxygen solubility by adding chemicals
+C. To measure biomass concentration
+D. To sterilize incoming air
+ANSWER: A
+
+Which instrument is used to monitor dissolved oxygen concentration?
+A. pH meter
+B. Dissolved oxygen probe
+C. Pressure gauge
+D. Flow meter
+ANSWER: B
+
+Aerobic microorganisms require which of the following for growth and metabolic activity?
+A. Methane
+B. Nitrogen gas only
+C. Oxygen
+D. Hydrogen sulfide
+ANSWER: C
+
+Which of the following is an important application of aerobic bioreactors?
+A. Methane production by anaerobic digestion
+B. Penicillin production
+C. Landfill methane recovery
+D. Anaerobic solvent fermentation
+ANSWER: B
+
+Anaerobic bioreactors operate primarily under which condition?
+A. High oxygen concentration
+B. Absence of oxygen
+C. Continuous air sparging
+D. Excess dissolved oxygen
+ANSWER: B
